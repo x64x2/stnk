@@ -1,0 +1,67 @@
+Read Me(stn)                                            Read Me(stn)
+
+
+
+NAME
+       stn - C++ wrapper facades for Berkeley sockets
+
+DESCRIPTION
+       The stn package provides a library of lightweight C++ wrapper
+       facades for Berkeley sockets, for single threaded applications.
+
+HOME PAGE
+       The latest version of stn is available on the Web from:
+
+            URL:    http://stn/
+            File:   index.html           # the stn page
+            File:   stn1.1.README   # Description, from the tar file
+            File:   stn1.1.lsm      # Description, LSM format
+            File:   stn1.1.tar.gz   # the complete source
+            File:   stn1.1.pdf      # Reference Manual
+
+BUILDING stn
+       Full instructions for building stn may be found in the BUILDING
+       file included in this distribution.
+
+COPYRIGHT
+       stn version 1.1
+       Copyright (C) 2009, 2010 Peter Miller
+
+       This program is free software; you can redistribute it and/or modify it
+       under the terms of the GNU Lesser General Public License as published
+       by the Free Software Foundation; either version 3 of the License, or
+       (at your option) any later version.
+
+       This program is distributed in the hope that it will be useful, but
+       WITHOUT ANY WARRANTY; without even the implied warranty of
+       MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+       Lesser General Public License for more details.
+
+       You should have received a copy of the GNU Lesser General Public
+       License along with this program. If not, see
+       <http://www.gnu.org/licenses/>.
+
+       It should be in the LICENSE file included with this distribution.
+
+AUTHOR
+       Peter Miller   E-Mail:   pmiller@opensource.org.au
+       /\/\*             WWW:   http://miller.estnik.id.au/pmiller/
+
+RELEASE NOTES
+       This section details the various features and bug fixes of the various
+       releases.  For excruciating and complete detail, and also credits for
+       those of you who have generously sent me suggestions and bug reports,
+       see the etc/CHANGES.* files.
+
+   Version 1.1 (2010-Sep-16)
+       First public release.
+
+       * There are now pre-built Debian packages available at the LP PPA, see
+         the web site for a link.
+
+   Version 1.0 (2009-Jul-22)
+       First public release.
+
+
+
+Reference Manual                   stn                  Read Me(stn)
